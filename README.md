@@ -13,3 +13,14 @@
 5. [Vertical Federated Unlearning via Backdoor Certification](https://ieeexplore.ieee.org/document/10857418)
 
 6. [Unlearning Clients, Features and Samples in Vertical Federated Learning](https://arxiv.org/abs/2501.13683)
+
+
+
+# Contributing
+We welcome contributions to expand and improve this repository! Here’s how you can help:
+1. Add papers
+   - Fork the repository, add a paper on README, and submit a pull request.
+
+3. Contributors
+   - Hong Xi Tae
+   - Chee Seng Chan
