@@ -1,5 +1,11 @@
 # Vertical-Federated-Unlearning-Benchmark
 
+## Introduction
+This repository serves as a comprehensive resource for all existing Vertical Federated Unlearning (VFU) studies and is designed to establish foundational benchmarks for the research community. By curating a centralized collection of studies, datasets, and evaluation metrics, the repository aims to standardize methodologies and facilitate consistent comparisons among various approaches.
+
+Additionally, the repository seeks to foster collaboration and innovation by providing researchers and practitioners with accessible tools, guidelines, and baseline implementations. This initiative not only helps streamline future VFU research but also encourages the development of robust and scalable solutions to advance the field.
+
+
 ## List of Papers
 
 1. [Vertical Federated Unlearning on the Logistic Regression Model](https://www.mdpi.com/2079-9292/12/14/3182)
