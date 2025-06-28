@@ -29,4 +29,4 @@ We welcome contributions to expand and improve this repository! Here’s how you
 
 3. Contributors
    - Hong Xi Tae
-   - Chee Seng Chan
+   - [Chee Seng Chan](http://cs-chan.com/)
