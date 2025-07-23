@@ -69,6 +69,8 @@ Additionally, the repository seeks to foster collaboration and innovation by pro
 We welcome contributions to expand and improve this repository! Here’s how you can help:
 1. Add papers
    - Fork the repository, add a paper on README, and submit a pull request.
+   
+2. Develop new unlearning techniques according to the future direction.
 
 3. Contributors
    - Hong Xi Tae
