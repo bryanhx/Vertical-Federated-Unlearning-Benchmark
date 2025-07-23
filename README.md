@@ -34,10 +34,10 @@ Additionally, the repository seeks to foster collaboration and innovation by pro
 
 
 
-## Datasets
+## Proposed Datasets
 
 
-## Evaluation Metrics
+## Proposed Evaluation Metrics
 
 
 ## Future Direction
