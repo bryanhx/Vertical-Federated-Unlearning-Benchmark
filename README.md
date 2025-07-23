@@ -58,6 +58,12 @@ Additionally, the repository seeks to foster collaboration and innovation by pro
 
 ## Future Direction
 
+- [ ] Simultaneously handling multiple unlearning targets.
+- [ ] Develop new unlearning techniques for Transformers, CNN-RNN hybrids model and so on.
+- [ ] Privacy-preserving unlearning techniques such as DP-knowledge distillation, DP unlearning algorithm.
+- [ ] Explore unlearning techniques on new model in healthcare such as GNN for graph-structured clinical data.
+- [x] Launching a community-maintained benchmark suite. (What we did now.)
+
 
 # Contributing
 We welcome contributions to expand and improve this repository! Here’s how you can help:
