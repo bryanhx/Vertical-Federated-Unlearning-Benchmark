@@ -36,6 +36,15 @@ Additionally, the repository seeks to foster collaboration and innovation by pro
 
 ## Proposed Datasets
 
+| No. | Datasets | Data Type |
+| --- | --- | ---|
+| 1. | [CIFAR10/100](https://www.cs.toronto.edu/~kriz/cifar.html) | Image |
+| 2. | [Cod-RNA](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html#cod-rna) | Tabular |
+| 3. | [Yahoo Answer](https://www.kaggle.com/datasets/soumikrakshit/yahoo-answers-dataset) | Text |
+| 4. | [Speech Commands](https://www.kaggle.com/datasets/neehakurelli/google-speech-commands) | Audio |
+| 5. | [Brain Tumor MRI](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset) | Medical Image |
+
+
 
 ## Proposed Evaluation Metrics
 
