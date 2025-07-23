@@ -48,6 +48,13 @@ Additionally, the repository seeks to foster collaboration and innovation by pro
 
 ## Proposed Evaluation Metrics
 
+| No. | Evaluation Metrics | Purpose |
+| --- | --- | --- |
+| 1. | Accuracy | Model Utility. To evaluate the extent of information retained in the remaining data and the degree of information removal from the unlearned data, respectively |
+| 2. | Membership Inference Attack (MIA) | Privacy leakage. To evaluate whether the forgotten data can be inferred as part of the training set. |
+| 3. | Runtime | Computational Efficiency. To assess the duration required to complete the unlearning process. |
+| 4. | Backdoor Attacks | Robustness on Adversarial Attacks. To assess whether the unlearning process successfully eliminates the influence of the malicious party. |
+
 
 ## Future Direction
 
