@@ -1,4 +1,4 @@
-# Vertical-Federated-Unlearning-Benchmark
+# Vertical Federated Unlearning Benchmark Suite
 
 ## Introduction
 This repository serves as a comprehensive resource for all existing Vertical Federated Unlearning (VFU) studies and is designed to establish foundational benchmarks for the research community. By curating a centralized collection of studies, datasets, and evaluation metrics, the repository aims to standardize methodologies and facilitate consistent comparisons among various approaches.
